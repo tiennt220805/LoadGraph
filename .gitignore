@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Go
+*.exe
+*.test
+*.out
+/bin/
+
+# Node
+node_modules/
+dist/
+build/
+*.log
